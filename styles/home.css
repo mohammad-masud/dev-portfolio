@@ -60,9 +60,14 @@
 .about , h3 , p{
     text-align: center;
     margin-left: 150px;
+    
+}
+.about{
+    background-color: #FFF8F3;
+    
 }
 .main-section{
-    width: 1040px;
+    width: 1140px;
     text-align: center;
 }
 .name{
@@ -73,5 +78,40 @@
     display: flex;
     align-items: center;
     text-align: center;
+    justify-content: space-around;
+    margin-left: 60px;
+    background-color: #FFF8F3;
+
+}
+.about-details{
+    text-align: center;
+    
+}
+.about-section{
+    background-color: #FFF8F3;
+}
+
+.whatTodo{
+    margin-top: 250px;
+}
+
+.work-area-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.icon{
+    margin-left: 150px;
+}
+.work-title{
+    padding-left: 155px;
+}
+
+.work-area-sectionwork-area-section{
+    margin-top: 80px;
+    margin-right: 500px;
+}
+.work-description{
+    text-align: justify;
 
 }
