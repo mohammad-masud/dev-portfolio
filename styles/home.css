@@ -115,3 +115,41 @@
     text-align: justify;
 
 }
+.resume{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer-section{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+.icon{
+    display: flex;
+    /* justify-content: space-around; */
+}
+.icon li{
+    list-style: none;
+}
+#name{
+    border-radius:  15px solid;
+    height: 25px;
+    margin-right: 65px;
+    
+}
+#email{
+    border-radius:  15px solid;
+    height: 25px;
+    margin-right: 65px;
+
+}
+.form-title{
+    text-align: center;
+    margin-right: 250px;
+}
+.footer-section{
+    background-color: #FFF8F3;
+}
